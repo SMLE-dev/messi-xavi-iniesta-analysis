@@ -1,0 +1,62 @@
+# Messi: The Xavi & Iniesta Effect?
+
+## Project Overview
+
+This project investigates Lionel Messi's attacking performance in La Liga across three Barcelona eras, examining whether his goals, assists and overall goal contributions differed depending on whether Xavi Hernández and Andrés Iniesta were playing alongside him.
+
+The analysis covers 13 seasons, from 2008/09 to 2020/21, using Microsoft Excel.
+
+## Research Question
+
+How did Lionel Messi's goals, assists and goal contributions per 90 minutes compare across three periods?
+
+- **Xavi + Iniesta:** 2008/09–2014/15
+- **Iniesta Only:** 2015/16–2017/18
+- **Neither:** 2018/19–2020/21
+
+## Tools Used
+
+- Microsoft Excel 2024
+- PivotTables
+- Excel formulas
+- Data cleaning and validation
+- Charts and dashboard design
+
+## Key Findings
+
+- Messi recorded his highest weighted goal contribution rate during the Xavi + Iniesta era, at **1.58 per 90 minutes**.
+- His highest weighted goals-per-90 rate was also during this era, at **1.15**.
+- His highest weighted assists-per-90 rate occurred during the Neither era, at **0.45**.
+- The Iniesta Only era recorded **1.39 goal contributions per 90 minutes**.
+- The Xavi + Iniesta era had approximately **12.9% higher weighted goal contributions per 90 minutes** than the Neither era.
+
+## Methodology
+
+Per-90 statistics were calculated using:
+
+- Goals per 90 = (Total Goals / Total Minutes) × 90
+- Assists per 90 = (Total Assists / Total Minutes) × 90
+- Goal Contributions per 90 = ((Total Goals + Total Assists) / Total Minutes) × 90
+
+Weighted rates were calculated using the combined minutes and output for each era, rather than simply averaging seasonal rates.
+
+## Limitations
+
+This project is descriptive, not causal. It does not establish that Xavi or Iniesta directly caused changes in Messi's performance.
+
+Other factors, including Messi's age, playing position, tactical systems, teammates and playing time, may have influenced the results.
+
+The analysis is limited to La Liga performances and the selected 13-season period.
+
+## Project Files
+
+- Excel workbook: `Messi_Xavi_Iniesta_Analysis.xlsx`
+- Data: Original La Liga season statistics
+- Dashboard: Visual comparison of the three eras
+- Methodology: Scope, calculations and limitations
+
+## Conclusion
+
+The analysis shows that Messi recorded his highest weighted goal contribution rate during the Xavi + Iniesta era. However, his assists-per-90 rate was highest during the period when neither player was alongside him.
+
+The results offer an interesting comparison of Messi's performance across different stages of his Barcelona career.
